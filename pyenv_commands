@@ -1,0 +1,17 @@
+# show installed versions of python with pyenv
+pyenv versions
+
+# show version of python currently being used
+python --version
+
+# create new virtual env from the 3.9.9 install
+# always create a new one, dont use the 3.9.9 to keep it clean
+pyenv virtualenv 3.9.9 venv3.9.9example
+
+# tell pyenv to use the virtual env
+# (creates a .python-version file)(hidden bc .) 
+pyenv local venv3.9.9example
+
+# validate virtual env is being used
+pyenv versions
+python --version
