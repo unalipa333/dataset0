@@ -1,5 +1,5 @@
 # dataset0
-Data Analysis from Kaggle dataset. Python, Numpy, Pandas
+Data Analysis from Kaggle dataset. Python, Numpy, Pandas and Matplotlib
 
 Exploratory Data Anaylsis Project
 Create Steps and CheckList
