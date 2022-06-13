@@ -3,7 +3,7 @@ Data Analysis from Kaggle dataset. Python, Numpy, Pandas and Matplotlib
 
 Data Anaylsis Project
 
-Large real world data set from Kaggle with over 1 million records
+Large real world data set from Kaggle with over 1 million records /n
 Perform Data Preperation and Cleaning for ML Model
 
 
