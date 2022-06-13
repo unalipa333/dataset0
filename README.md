@@ -1,10 +1,10 @@
 # dataset0
 Data Analysis from Kaggle dataset. Python, Numpy, Pandas and Matplotlib
 
-Exploratory Data Anaylsis Project
-Create Steps and CheckList
-1. Select a large real world data set from Kaggle
-2. Perform Data Prepertion and Cleaning 
+Data Anaylsis Project
+
+Large real world data set from Kaggle with over 1 million records
+Perform Data Preperation and Cleaning for ML Model
 
 
 Acknowledgements and References:
