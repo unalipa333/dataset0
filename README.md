@@ -1,9 +1,14 @@
 # dataset0
-Data Analysis from Kaggle dataset. Python, Numpy, Pandas and Matplotlib:
+This project analyzes over 2 million records and takes a closer look at relationships between 
+temperature, humidity and car accidents. 
+
+The dataset was taken from Kaggle and the analysis was done using Python, Numpy, Pandas and Matplotlib:
+
+
 
 Data Anaylsis Project:
 
-Large real world data set from Kaggle with over 1 million records.
+Large real world data set from Kaggle with over 2 million records.
 
 Perform Data Preperation and Cleaning for Modeling.
 
